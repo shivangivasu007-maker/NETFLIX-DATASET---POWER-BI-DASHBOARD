@@ -61,6 +61,11 @@ The dashboard consists of 6 key visualizations:
   based on IMDB score thresholds
 - `avg_final_score` — Weighted engagement score combining 
   imdb_score and imdb_votes
+- Measures - ( Average total ratings,Average final score )
+- Summarization in dashboard cards -(total type of shows/movies ,IMDB votes )
+- Slicer for year (1943-2022)
+- Charts - Pie , Line(with futuristic prediction) , Column , Donought ,Gauge ,Clustered line column chart
+  
 
 ## 🚀 How to Use
 
